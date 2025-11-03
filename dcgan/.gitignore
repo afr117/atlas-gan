@@ -1,0 +1,3 @@
+dcgan/logs/**/checkpoints/
+dcgan/data/
+*.pt
