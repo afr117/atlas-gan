@@ -1,0 +1,5 @@
+.venv/
+dcgan/.venv/
+dcgan/data/
+*.pt
+logs/**/checkpoints/
